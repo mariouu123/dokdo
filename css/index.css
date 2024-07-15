@@ -2480,6 +2480,11 @@ input[id="menuicon"]:checked+label+div {
         object-fit: cover;
     }
 
+        /* 섹션2 */
+    .exhibitbox li img{
+        min-width: 500px;
+    }
+
     /* 섹션4 */
 
     .photo_text2{
